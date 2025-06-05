@@ -1,16 +1,49 @@
-## Hi there 👋
+# Hey there, I'm Jonathan 👋
 
-<!--
-**MJSCHERER/MJSCHERER** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🚀 Senior Software Developer • Creative Engineer • AuraHyprs Core Dev  
+🎯 Focused on building systems that scale — clean, secure, and full of character.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 What I Do
+
+- 🧬 Architect & scale full-stack apps  
+- ⚙️ Node.js • React • PostgreSQL • DevOps  
+- 🚨 CI/CD • Monitoring • Testing • Security-first  
+- 🎨 Bridging logic and design — clean code with soul
+
+---
+
+## 🧠 My Mindset
+
+> "Think like Einstein, code like Brain — execute like Pinky."  
+> – A motto, a lifestyle, a vibe.
+
+I'm driven by clarity, precision, and creativity.  
+At **[AuraHyprs](https://aurahyprs.com)**, we’re not just building features – we’re building culture.
+
+---
+
+## 🌐 Links
+
+- 🌟 [AuraHyprs Platform](https://aurahyprs.com)  
+- 💼 [Email me](mailto:mjscherer@aurahyprs.com)  
+- 🧠 @CastleWare-International  
+- 🛠️ Ask me about architecture, scale, DevOps & good jokes.
+
+---
+
+### 🐭 Powered by brain, built with purpose.
+
+---
+
+## Extras under the hood 🔍
+
+- 🔭 Currently working on: AuraHyprs — the future of creative monetization  
+- 🌱 Currently deepening: scalable architecture, AI-assisted workflows & AWS fine-tuning  
+- 👯 Looking to collaborate on: creative tech, platforms for creators, and dev culture tooling  
+- 🤔 Looking for help with: time-travel debugging (or maybe just better calendar syncing)  
+- 💬 Ask me about: DevOps, architecture, scaling strategies, comic logic in code  
+- 📫 How to reach me: mjscherer@aurahyprs.com or via carrier pigeon (AuraNet in progress)  
+- 😄 Pronouns: he/him — but "code wizard" also works  
+- ⚡ Fun fact: I once debugged an issue faster by pretending to be Pinky asking Brain what the plan was.
