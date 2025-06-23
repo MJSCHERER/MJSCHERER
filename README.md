@@ -1,6 +1,6 @@
 # Hey there, I'm Jonathan 👋
 
-🚀 Senior Software Developer • Creative Engineer • AuraHyprs Core Dev  
+🚀 Senior Software Developer • AuraHyprs / CastleLabs 
 🎯 Focused on building systems that scale — clean, secure, and full of character.
 
 ---
@@ -27,8 +27,8 @@ At **[AuraHyprs](https://aurahyprs.com)**, we’re not just building features �
 ## 🌐 Links
 
 - 🌟 [AuraHyprs Platform](https://aurahyprs.com)  
-- 💼 [Email me](mailto:mjscherer@aurahyprs.com)  
-- 🧠 @CastleWare-International  
+- 💼 [Email me](mailto:mjscherer@CastleLabsUK.com)  
+- 🧠 @CastleLabs-InternAItional  
 - 🛠️ Ask me about architecture, scale, DevOps & good jokes.
 
 ---
@@ -44,6 +44,6 @@ At **[AuraHyprs](https://aurahyprs.com)**, we’re not just building features �
 - 👯 Looking to collaborate on: creative tech, platforms for creators, and dev culture tooling  
 - 🤔 Looking for help with: time-travel debugging (or maybe just better calendar syncing)  
 - 💬 Ask me about: DevOps, architecture, scaling strategies, comic logic in code  
-- 📫 How to reach me: mjscherer@aurahyprs.com or via carrier pigeon (AuraNet in progress)  
+- 📫 How to reach me: mjscherer@CastleLabsUK.com
 - 😄 Pronouns: he/him — but "code wizard" also works  
 - ⚡ Fun fact: I once debugged an issue faster by pretending to be Pinky asking Brain what the plan was.
