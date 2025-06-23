@@ -1,9 +1,11 @@
-# Hey there, I'm Jonathan 👋
+# Hey there, I'm Jonathan
 
-🚀 Senior Software Developer • AuraHyprs / CastleLabs
+Senior Software Developer • AuraHyprs / CastleLabs
 
 ---
-Focused on building systems that scale — clean, secure, and full of character.
+
+***Focused on building systems that scale — clean, secure, and full of character.***
+
 ---
 
 ## 👨‍💻 What I Do
