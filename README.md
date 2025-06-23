@@ -4,7 +4,7 @@ Senior Software Developer • AuraHyprs / CastleLabs
 
 ---
 
-***Focused on building systems that scale — clean, secure, and full of character.***
+***We stand at the ege of world - rewritten by code.***
 
 ---
 
