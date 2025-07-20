@@ -69,13 +69,7 @@ What's Under the Hood 🔍
 
 💬 Ask me about: Leadership in tech, scaling teams & systems, and frameworks that don’t break under pressure
 
-📫 Reach me at: mjscherer@CastleLabsUK.com
-
 😄 Pronouns: He/him — “Architect of Flow” also accepted
-
-⚡ Fun fact: I once solved a race condition by explaining it like a time loop in Rick and Morty.
-
-
 
 ---
 
