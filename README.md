@@ -1,54 +1,83 @@
-# Hey there, I'm Jonathan
+---
 
-**Senior Technical Developer** at AuraHyprs / CastleLabs
+Hey there, I'm Jonathan
+
+Senior Technology Manager at CastleLabs
+
 
 ---
 
-***We stand at the edge of a world rewritten not by legacy, but by code..***
+We’re not just shipping code — we’re shaping systems, teams, and futures.
+
 
 ---
 
-## 👨‍💻 What I Do
+🧭 What I Do
 
-* 🧬 Architect & scale full-stack applications
-* ⚙️ Expertise: Node.js • React • PostgreSQL • DevOps
-* 🚨 CI/CD • Monitoring • Testing • Security-first approach
-* 🎨 Bridging logic and design — clean, efficient code with soul
+🧠 Lead technical direction & strategy across products
 
----
+🏗️ Architect scalable systems — from backend to cloud infrastructure
 
-## 🧠 My Mindset
+🛡️ Own DevOps, CI/CD, Security & Monitoring pipelines
 
-> "Think like Einstein, code like Brain — execute like Pinky."
-> – A motto, a lifestyle, a vibe.
+🤝 Bridge business goals with tech execution
 
-I’m driven by **clarity**, **precision**, and **creativity**.
-At **[AuraHyprs](https://aurahyprs.com)**, we’re not just building features — we’re building a **culture**.
+🚀 Empower teams to build clean, resilient, future-ready software
+
+
 
 ---
 
-## 🌐 Links
+🧠 My Mindset
 
-* 🌟 [CastleLabsUK Platform](https://CastleLabsUK.com)
-* 💼 [Email](mailto:mjscherer@CastleLabsUK.com)
-* 🧠 @CastleLabs
-* 🛠️ Ask me about: Architecture, scaling, DevOps, and the occasional good joke.
+> “Think like Einstein, lead like Brain — and execute like Pinky on caffeine.”
+
+
+
+I drive clarity, strategic velocity, and tech culture.
+At CastleLabs, I help shape not only what we build — but how and why.
+
+
+---
+
+🌐 Links
+
+🏛️ CastleLabsUK Platform
+
+💼 Email
+
+🧠 @CastleLabs
+
+🔍 Ask me about: Scalable architecture, engineering, and system design that actually works.
+
+
 
 ---
 
-### 🐭 Powered by brain, built with purpose.
+🐭 Built with purpose. Powered by brain.
+
 
 ---
 
-## Extras under the hood 🔍
+What's Under the Hood 🔍
 
-* 🔭 **Currently working on**: AuraHyprs — the future of creative monetization
-* 🌱 **Currently deepening**: Scalable architecture, AI-assisted workflows & AWS fine-tuning
-* 👯 **Looking to collaborate on**: Creative tech, platforms for creators, and dev culture tooling
-* 🤔 **Looking for help with**: Time-travel debugging (or better calendar syncing)
-* 💬 **Ask me about**: DevOps, architecture, scaling strategies, comic logic in code
-* 📫 **How to reach me**: [mjscherer@CastleLabsUK.com](mailto:mjscherer@CastleLabsUK.com)
-* 😄 **Pronouns**: He/him — but "code wizard" works too
-* ⚡ **Fun fact**: I once debugged an issue faster by pretending to be Pinky asking Brain what the plan was.
+🔭 Currently steering: AuraHyprs — the platform for next-gen creative monetization
+
+📈 Focused on: Scalable architecture, observability, AI-assisted ops, and AWS optimization
+
+👥 Collaborating on: Cross-team engineering standards, creator-first tooling, dev culture enablement
+
+🤝 Looking to connect with: Tech leaders, creative builders, and people who ship with heart
+
+💬 Ask me about: Leadership in tech, scaling teams & systems, and frameworks that don’t break under pressure
+
+📫 Reach me at: mjscherer@CastleLabsUK.com
+
+😄 Pronouns: He/him — “Architect of Flow” also accepted
+
+⚡ Fun fact: I once solved a race condition by explaining it like a time loop in Rick and Morty.
+
+
 
 ---
+
