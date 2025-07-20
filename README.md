@@ -73,3 +73,9 @@ What's Under the Hood 🔍
 
 ---
 
+🌀 Bonus Debug Fact
+
+I once solved a race condition faster by pretending to be Pinky asking Brain what the plan was.
+Another time, I fixed a bug stuck in async limbo by treating it like a time loop — turns out, clarity beats chaos when you stop reacting and start observing the cycle.
+
+---
