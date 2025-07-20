@@ -61,8 +61,6 @@ At CastleLabs, I help shape not only what we build — but how and why.
 
 What's Under the Hood 🔍
 
-🔭 Currently steering: AuraHyprs — the platform for next-gen creative monetization
-
 📈 Focused on: Scalable architecture, observability, AI-assisted ops, and AWS optimization
 
 👥 Collaborating on: Cross-team engineering standards, creator-first tooling, dev culture enablement
