@@ -1,81 +1,64 @@
----
+# Hey there, I'm Jonathan
 
-Hey there, I'm Jonathan
-
-Senior Technology Manager at CastleLabs
-
+**Senior Technology Manager** at CastleLabs
 
 ---
 
-We’re not just shipping code — we’re shaping systems, teams, and futures.
-
-
----
-
-🧭 What I Do
-
-🧠 Lead technical direction & strategy across products
-
-🏗️ Architect scalable systems — from backend to cloud infrastructure
-
-🛡️ Own DevOps, CI/CD, Security & Monitoring pipelines
-
-🤝 Bridge business goals with tech execution
-
-🚀 Empower teams to build clean, resilient, future-ready software
-
-
+***We’re not just shipping code — we’re shaping systems, teams, and futures.***
 
 ---
 
-🧠 My Mindset
+## 🧭 What I Do
+
+* 🧠 Lead technical direction & strategy across products
+* 🏗️ Architect scalable systems — from backend to cloud infrastructure
+* 🛡️ Own DevOps, CI/CD, Security & Monitoring pipelines
+* 🤝 Align engineering execution with business goals
+* 🚀 Empower teams to build clean, resilient, future-ready software
+
+---
+
+## 🧠 My Mindset
 
 > “Think like Einstein, lead like Brain — and execute like Pinky on caffeine.”
 
-
-
-I drive clarity, strategic velocity, and tech culture.
-At CastleLabs, I help shape not only what we build — but how and why.
-
+I’m driven by **clarity**, **strategic velocity**, and a strong sense of **engineering culture**.
+At **CastleLabs**, I help shape not only **what** we build — but **how** and **why** we build it.
 
 ---
 
-🌐 Links
+## 🌐 Links
 
-🏛️ CastleLabsUK Platform
+* 🏛️ **CastleLabsUK Platform**
+  [https://CastleLabsUK.com](https://CastleLabsUK.com)
 
-💼 Email
+* 💼 **Email**
+  [mjscherer@CastleLabsUK.com](mailto:mjscherer@CastleLabsUK.com)
 
-🧠 @CastleLabs
+* 🧠 **@CastleLabs on GitHub**
+  [https://github.com/CastleLabs-InternAItional](https://github.com/CastleLabs-InternAItional)
 
-🔍 Ask me about: Scalable architecture, engineering, and system design that actually works.
-
-
-
----
-
-🐭 Built with purpose. Powered by brain.
-
+> 🔍 Ask me about: Scalable architecture, engineering leadership, and systems that actually work.
 
 ---
 
-What's Under the Hood 🔍
-
-📈 Focused on: Scalable architecture, observability, AI-assisted ops, and AWS optimization
-
-👥 Collaborating on: Cross-team engineering standards, creator-first tooling, dev culture enablement
-
-🤝 Looking to connect with: Tech leaders, creative builders, and people who ship with heart
-
-💬 Ask me about: Leadership in tech, scaling teams & systems, and frameworks that don’t break under pressure
-
-😄 Pronouns: He/him — “Architect of Flow” also accepted
+## 🐭 Built with Purpose. Powered by Brain.
 
 ---
 
-🌀 Bonus Debug Fact
+## 🔍 What's Under the Hood
 
-I once solved a race condition faster by pretending to be Pinky asking Brain what the plan was.
-Another time, I fixed a bug stuck in async limbo by treating it like a time loop — turns out, clarity beats chaos when you stop reacting and start observing the cycle.
+* 📈 **Focused on**: Scalable architecture, observability, AI-assisted ops, and AWS optimization
+* 👥 **Collaborating on**: Cross-team engineering standards, creator-first tooling, and dev culture enablement
+* 🤝 **Looking to connect with**: Tech leaders, creative builders, and people who ship with heart
+* 💬 **Ask me about**: Leading tech teams, scaling systems, and building frameworks that don’t break under pressure
+* 😄 **Pronouns**: He/him — “Architect of Flow” also accepted
+
+---
+
+## 🌀 Bonus Debug Fact
+
+I once solved a race condition faster by pretending to be **Pinky** asking **Brain** what the plan was.
+Another time, I cracked a persistent async bug by mapping it like a **time loop** — because sometimes the key isn’t more code, it’s better observation.
 
 ---
