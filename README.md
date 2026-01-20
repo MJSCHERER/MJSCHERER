@@ -1,64 +1,76 @@
-# Hey there, I'm Jonathan
+# M. Jonathan Scherer
 
-**Senior Technology Manager** at CastleLabs
-
----
-
-***We’re not just shipping code — we’re shaping systems, teams, and futures.***
+**Chief Technology Officer (CTO)**
+CastleLabs
 
 ---
 
-## 🧭 What I Do
-
-* 🧠 Lead technical direction & strategy across products
-* 🏗️ Architect scalable systems — from backend to cloud infrastructure
-* 🛡️ Own DevOps, CI/CD, Security & Monitoring pipelines
-* 🤝 Align engineering execution with business goals
-* 🚀 Empower teams to build clean, resilient, future-ready software
+*We don’t just deliver software — we design systems that scale, teams that thrive, and technology that lasts.*
 
 ---
 
-## 🧠 My Mindset
+## 🧭 Role & Responsibility
 
-> “Think like Einstein, lead like Brain — and execute like Pinky on caffeine.”
+As **CTO at CastleLabs**, I’m responsible for the **technical vision, execution, and long-term sustainability** of our platforms and products.
 
-I’m driven by **clarity**, **strategic velocity**, and a strong sense of **engineering culture**.
-At **CastleLabs**, I help shape not only **what** we build — but **how** and **why** we build it.
+My focus sits at the intersection of **engineering excellence, business strategy, and organizational clarity**.
+
+* Define and drive technical strategy across products and platforms
+* Architect scalable, secure, cloud-native systems
+* Own DevOps, CI/CD, security, observability, and reliability
+* Translate business goals into executable technical roadmaps
+* Build and mentor high-performing engineering teams
+* Establish standards that scale without slowing innovation
 
 ---
 
-## 🌐 Links
+## 🧠 Leadership Philosophy
 
-* 🏛️ **CastleLabsUK Platform**
+> *Strong systems come from clear thinking, disciplined execution, and empowered people.*
+
+I value **clarity over complexity**, **outcomes over activity**, and **culture as a force multiplier**.
+Technology is never just about tools — it’s about decisions, trade-offs, and the humans who maintain them.
+
+At CastleLabs, I help shape not only **what** we build, but **how** we build — and **why it matters**.
+
+---
+
+## 🔍 Areas of Focus
+
+* Scalable system architecture & platform design
+* Cloud infrastructure (AWS) & cost-aware optimization
+* Observability, monitoring, and operational excellence
+* Security-first engineering & resilience
+* AI-assisted workflows and developer productivity
+* Cross-team standards and sustainable engineering culture
+
+---
+
+## 🌐 Connect
+
+* **CastleLabs Platform**
   [https://CastleLabsUK.com](https://CastleLabsUK.com)
 
-* 💼 **Email**
+* **Email**
   [mjscherer@CastleLabsUK.com](mailto:mjscherer@CastleLabsUK.com)
 
-* 🧠 **@CastleLabs on GitHub**
+* **GitHub**
   [https://github.com/CastleLabs-InternAItional](https://github.com/CastleLabs-InternAItional)
 
-> 🔍 Ask me about: Scalable architecture, engineering leadership, and systems that actually work.
+---
+
+## 🧩 Working Style
+
+I collaborate best with people who care about **quality**, **ownership**, and **shipping things that actually work**.
+I’m especially interested in conversations around **scaling teams**, **technical leadership**, and **systems that don’t collapse under growth**.
 
 ---
 
-## 🐭 Built with Purpose. Powered by Brain.
+## 🧠 A Note on Problem-Solving
 
----
+Some bugs are fixed with more code.
+Others disappear when you slow down, observe the system, and understand its timing, incentives, and failure modes.
 
-## 🔍 What's Under the Hood
-
-* 📈 **Focused on**: Scalable architecture, observability, AI-assisted ops, and AWS optimization
-* 👥 **Collaborating on**: Cross-team engineering standards, creator-first tooling, and dev culture enablement
-* 🤝 **Looking to connect with**: Tech leaders, creative builders, and people who ship with heart
-* 💬 **Ask me about**: Leading tech teams, scaling systems, and building frameworks that don’t break under pressure
-* 😄 **Pronouns**: He/him — “Architect of Flow” also accepted
-
----
-
-## 🌀 Bonus Debug Fact
-
-I once solved a race condition faster by pretending to be **Pinky** asking **Brain** what the plan was.
-Another time, I cracked a persistent async bug by mapping it like a **time loop** — because sometimes the key isn’t more code, it’s better observation.
+Good engineering is often less about heroics — and more about seeing the whole machine.
 
 ---
