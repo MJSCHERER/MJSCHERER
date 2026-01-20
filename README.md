@@ -51,12 +51,6 @@ At CastleLabs, I help shape not only **what** we build, but **how** we build —
 * **CastleLabs Platform**
   [https://CastleLabsUK.com](https://CastleLabsUK.com)
 
-* **Email**
-  [mjscherer@CastleLabsUK.com](mailto:mjscherer@CastleLabsUK.com)
-
-* **GitHub**
-  [https://github.com/CastleLabs-InternAItional](https://github.com/CastleLabs-InternAItional)
-
 ---
 
 ## 🧩 Working Style
