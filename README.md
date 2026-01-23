@@ -1,7 +1,7 @@
 # M. Jonathan Scherer
 
 **Chief Technology Officer (CTO)**
-CastleLabs
+CASTL
 
 ---
 
@@ -11,7 +11,7 @@ CastleLabs
 
 ## 🧭 Role & Responsibility
 
-As **CTO at CastleLabs**, I’m responsible for the **technical vision, execution, and long-term sustainability** of our platforms and products.
+As **CTO at CASTL**, I’m responsible for the **technical vision, execution, and long-term sustainability** of our platforms and products.
 
 My focus sits at the intersection of **engineering excellence, business strategy, and organizational clarity**.
 
@@ -48,7 +48,7 @@ At CastleLabs, I help shape not only **what** we build, but **how** we build —
 
 ## 🌐 Connect
 
-* **CastleLabs Platform**
+* **CASTL Platform**
   [https://CastleLabsUK.com](https://CastleLabsUK.com)
 
 ---
